@@ -19,4 +19,4 @@
 
 ## Links For Live Websites
 * myResume https://github.com/Aayushi99/myResume
-* assessment-project https://github.com/Aayushi99/assessment-Project/
+* assessment-project https://aayushi99.github.io/assessment-Project/
