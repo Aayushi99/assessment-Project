@@ -18,5 +18,5 @@
 * To solve Cors Issue https://cors-anywhere.herokuapp.com/
 
 ## Links For Live Websites
-* myResume https://aayushi99.github.io/myResume/
+* myResume https://aayushi99.github.io
 * assessment-project https://aayushi99.github.io/assessment-project/
